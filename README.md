@@ -386,7 +386,7 @@ A complete agentic AI workflow from documents to syllabi to training videos.
 ```bash
 # Clone and install
 git clone https://github.com/antoinekllee/neuroflix-gemini-hack.git
-cd neuroflix
+cd neuroflix-gemini-hack
 npm install
 
 # Run development server
